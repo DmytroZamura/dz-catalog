@@ -1,0 +1,32 @@
+from django.conf.urls import url
+from catalog.general import views
+
+urlpatterns = [
+    url(r'^countries/', views.CountriesListView.as_view()),
+    url(r'^existed-countries/', views.ExistedCountriesListView.as_view()),
+    url(r'^country/(?P<pk>[0-9]+)/$', views.CountryDetailsView.as_view()),
+    url(r'^country-search/(?P<name>.+)/$', views.CountrySearchView.as_view()),
+    url(r'^cities/', views.CitiesListView.as_view()),
+    url(r'^existed-cities/', views.ExistedCitiesListView.as_view()),
+    url(r'^cities-of-country/(?P<country>[0-9]+)/$', views.CitiesOfCountryListView.as_view()),
+    url(r'^city/(?P<pk>[0-9]+)/$', views.CityDetailsView.as_view()),
+    url(r'^city-search/(?P<name>.+)/$', views.CitySearchView.as_view()),
+    url(r'^city-of-country-search/(?P<country>[0-9]+)/(?P<name>.+)/$', views.CityOfCountrySearchView.as_view()),
+    url(r'^get-city-by-name/(?P<country>[0-9]+)/(?P<name>.+)/$', views.CityByNameView.as_view()),
+    url(r'^language-search/(?P<name>.+)/$', views.LanguageSearchView.as_view()),
+    url(r'^languages/', views.LanguagesListView.as_view()),
+    url(r'^language/(?P<pk>[0-9]+)/$', views.LanguageDetailsView.as_view()),
+    url(r'^language-by-code/(?P<code>.+)/$', views.LanguageDetailsByCodeView.as_view()),
+    url(r'^unit-types/', views.UnitTypesListView.as_view()),
+    url(r'^currencies/', views.CurrenciesListView.as_view()),
+    url(r'^currency/(?P<pk>[0-9]+)/$', views.CurrencyDetailsView.as_view()),
+    url(r'^job-types/', views.JobTypeListView.as_view()),
+    url(r'^job-functions/', views.JobFunctionListView.as_view()),
+    url(r'^seniority-labels/', views.SeniorityLabelListView.as_view()),
+    url(r'^geo-search/(?P<lat>.+)/(?P<lon>.+)/$',
+        views.GeoCitySearchView.as_view()),
+    url(r'^regions/', views.RegionsListView.as_view()),
+    url(r'^existed-regions/', views.ExistedRegionsListView.as_view()),
+    url(r'^refresh-rates-corn/', views.RefreshRatesView.as_view()),
+    url(r'^translation/(?P<code>.+)/$', views.TranslationView.as_view()),
+]

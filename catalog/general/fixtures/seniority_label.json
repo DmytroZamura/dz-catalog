@@ -1,0 +1,152 @@
+[
+  {
+    "model": "general.senioritylabel",
+    "pk": 1,
+    "fields": {
+      "position": 6
+    }
+  },
+  {
+    "model": "general.senioritylabel",
+    "pk": 2,
+    "fields": {
+      "position": 5
+    }
+  },
+  {
+    "model": "general.senioritylabel",
+    "pk": 3,
+    "fields": {
+      "position": 4
+    }
+  },
+  {
+    "model": "general.senioritylabel",
+    "pk": 4,
+    "fields": {
+      "position": 3
+    }
+  },
+  {
+    "model": "general.senioritylabel",
+    "pk": 5,
+    "fields": {
+      "position": 2
+    }
+  },
+  {
+    "model": "general.senioritylabel",
+    "pk": 6,
+    "fields": {
+      "position": 1
+    }
+  },
+  {
+    "model": "general.senioritylabeltranslation",
+    "pk": 1,
+    "fields": {
+      "name": "Internship",
+      "master": 1,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.senioritylabeltranslation",
+    "pk": 2,
+    "fields": {
+      "name": "Практика",
+      "master": 1,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.senioritylabeltranslation",
+    "pk": 3,
+    "fields": {
+      "name": "Trainee",
+      "master": 2,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.senioritylabeltranslation",
+    "pk": 4,
+    "fields": {
+      "name": "Стажер",
+      "master": 2,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.senioritylabeltranslation",
+    "pk": 5,
+    "fields": {
+      "name": "Entry Level",
+      "master": 3,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.senioritylabeltranslation",
+    "pk": 6,
+    "fields": {
+      "name": "Начальный уровень",
+      "master": 3,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.senioritylabeltranslation",
+    "pk": 7,
+    "fields": {
+      "name": "Mid Senior Level",
+      "master": 4,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.senioritylabeltranslation",
+    "pk": 8,
+    "fields": {
+      "name": "Средний уровень",
+      "master": 4,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.senioritylabeltranslation",
+    "pk": 9,
+    "fields": {
+      "name": "Director/Senior",
+      "master": 5,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.senioritylabeltranslation",
+    "pk": 10,
+    "fields": {
+      "name": "Руководитель / Специалист высшей категории",
+      "master": 5,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.senioritylabeltranslation",
+    "pk": 11,
+    "fields": {
+      "name": "Executive",
+      "master": 6,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.senioritylabeltranslation",
+    "pk": 12,
+    "fields": {
+      "name": "Топ-менеджер",
+      "master": 6,
+      "language_code": "ru"
+    }
+  }
+]

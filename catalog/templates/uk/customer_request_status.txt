@@ -1,0 +1,10 @@
+Заявка на покупку від {{username}}
+
+№ {{request_id}}
+
+Статус змінено на:
+{{status}}
+
+Copyright © 2019 CatalogToday. All Rights Reserved. We appreciate you!
+
+help@catalogtoday.com

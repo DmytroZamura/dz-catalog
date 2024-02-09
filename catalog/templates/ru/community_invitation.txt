@@ -1,0 +1,7 @@
+{{target_name}}
+
+{{username}} отправил запрос на вступление
+
+Copyright © 2019 CatalogToday. All Rights Reserved. We appreciate you!
+
+help@catalogtoday.com

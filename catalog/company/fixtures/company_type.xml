@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0"><object model="company.companytype" pk="1"><field name="position" type="IntegerField">0</field></object><object model="company.companytype" pk="2"><field name="position" type="IntegerField">1</field></object><object model="company.companytype" pk="3"><field name="position" type="IntegerField">2</field></object><object model="company.companytype" pk="4"><field name="position" type="IntegerField">4</field></object></django-objects>

@@ -1,0 +1,12 @@
+{{username}}.
+{{ response_type_text }}
+{{ response_title }}
+
+{{ price }} {{ currency }}.
+
+{{message}}
+
+
+Copyright © 2019 CatalogToday. All Rights Reserved. We appreciate you!
+
+help@catalogtoday.com

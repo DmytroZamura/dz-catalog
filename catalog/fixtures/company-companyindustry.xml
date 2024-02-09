@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+  <object model="company.companyindustry" pk="1">
+    <field name="slug" type="CharField">advertising-public-relations</field>
+  </object>
+  <object model="company.companyindustry" pk="2">
+    <field name="slug" type="CharField">aerospace-defense-contractors</field>
+  </object>
+  <object model="company.companyindustry" pk="3">
+    <field name="slug" type="CharField">agribusiness</field>
+  </object>
+  <object model="company.companyindustry" pk="4">
+    <field name="slug" type="CharField">agriculture</field>
+  </object>
+  <object model="company.companyindustry" pk="5">
+    <field name="slug" type="CharField">air-transport</field>
+  </object>
+  <object model="company.companyindustry" pk="6">
+    <field name="slug" type="CharField">banking</field>
+  </object>
+  <object model="company.companyindustry" pk="7">
+    <field name="slug" type="CharField">bars-restaurants</field>
+  </object>
+  <object model="company.companyindustry" pk="8">
+    <field name="slug" type="CharField">books-magazines-newspapers</field>
+  </object>
+  <object model="company.companyindustry" pk="9">
+    <field name="slug" type="CharField">broadcasters-radio-tv</field>
+  </object>
+  <object model="company.companyindustry" pk="10">
+    <field name="slug" type="CharField">builders</field>
+  </object>
+  <object model="company.companyindustry" pk="11">
+    <field name="slug" type="CharField">building-materials-equipment</field>
+  </object>
+  <object model="company.companyindustry" pk="12">
+    <field name="slug" type="CharField">business-services</field>
+  </object>
+  <object model="company.companyindustry" pk="13">
+    <field name="slug" type="CharField">software-development</field>
+  </object>
+</django-objects>

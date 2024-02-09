@@ -1,0 +1,25 @@
+from catalog.settings.development import *
+
+MIGRATION_MODULES = {
+    'auth': None,
+    'contenttypes': None,
+    'default': None,
+    'sessions': None,
+    'taggit': None,
+    'general': None,
+    'user_profile': None,
+    'utils': None,
+    'file': None,
+    'post': None,
+    'category': None,
+    'product': None,
+    'company': None,
+    'community': None,
+    'employment': None,
+    'supply_request': None,
+    'messaging': None,
+    'attribute': None,
+    'mention': None,
+    'hashtag': None,
+    'payments': None,
+}

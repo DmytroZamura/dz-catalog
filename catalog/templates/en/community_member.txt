@@ -1,0 +1,7 @@
+{{target_name}}
+
+{{username}}. Congratulations. You are a community member.
+
+Copyright © 2019 CatalogToday. All Rights Reserved. We appreciate you!
+
+help@catalogtoday.com

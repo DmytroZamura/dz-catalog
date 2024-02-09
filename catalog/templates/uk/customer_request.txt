@@ -1,0 +1,10 @@
+Нове замовлення клієнта від {{username}}
+
+№ {{request_id}}
+
+Повідомлення користувача:
+{{message}}
+
+Copyright © 2019 CatalogToday. All Rights Reserved. We appreciate you!
+
+help@catalogtoday.com

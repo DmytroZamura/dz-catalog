@@ -1,0 +1,546 @@
+[
+  {
+    "model": "general.translation",
+    "pk": 1,
+    "fields": {
+      "code": "message-from"
+    }
+  },
+  {
+    "model": "general.translation",
+    "pk": 2,
+    "fields": {
+      "code": "new-customer-request-from"
+    }
+  },
+  {
+    "model": "general.translation",
+    "pk": 3,
+    "fields": {
+      "code": "supply-request"
+    }
+  },
+  {
+    "model": "general.translation",
+    "pk": 4,
+    "fields": {
+      "code": "status-changed"
+    }
+  },
+  {
+    "model": "general.translation",
+    "pk": 5,
+    "fields": {
+      "code": "new-applicant"
+    }
+  },
+  {
+    "model": "general.translation",
+    "pk": 6,
+    "fields": {
+      "code": "vacancy"
+    }
+  },
+  {
+    "model": "general.translation",
+    "pk": 7,
+    "fields": {
+      "code": "offering-response"
+    }
+  },
+  {
+    "model": "general.translation",
+    "pk": 8,
+    "fields": {
+      "code": "request-response"
+    }
+  },
+  {
+    "model": "general.translation",
+    "pk": 9,
+    "fields": {
+      "code": "responses-to-your-offerings"
+    }
+  },
+  {
+    "model": "general.translation",
+    "pk": 10,
+    "fields": {
+      "code": "responses-to-your-requests"
+    }
+  },
+  {
+    "model": "general.translation",
+    "pk": 11,
+    "fields": {
+      "code": "new-request-response"
+    }
+  },
+  {
+    "model": "general.translation",
+    "pk": 12,
+    "fields": {
+      "code": "new-offering-response"
+    }
+  },
+  {
+    "model": "general.translation",
+    "pk": 13,
+    "fields": {
+      "code": "new-administrator"
+    }
+  },
+  {
+    "model": "general.translation",
+    "pk": 14,
+    "fields": {
+      "code": "administrator-deleted"
+    }
+  },
+  {
+    "model": "general.translation",
+    "pk": 15,
+    "fields": {
+      "code": "membership-request"
+    }
+  },
+  {
+    "model": "general.translation",
+    "pk": 16,
+    "fields": {
+      "code": "community-member"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 1,
+    "fields": {
+      "text": "A message from",
+      "master": 1,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 2,
+    "fields": {
+      "text": "Сообщение от",
+      "master": 1,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 3,
+    "fields": {
+      "text": "A message from",
+      "master": 1,
+      "language_code": "it"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 4,
+    "fields": {
+      "text": "A new customer request from",
+      "master": 2,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 5,
+    "fields": {
+      "text": "A new customer request from",
+      "master": 2,
+      "language_code": "it"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 6,
+    "fields": {
+      "text": "Новая заявка клиента от",
+      "master": 2,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 7,
+    "fields": {
+      "text": "Supply request",
+      "master": 3,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 8,
+    "fields": {
+      "text": "Supply request",
+      "master": 3,
+      "language_code": "it"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 9,
+    "fields": {
+      "text": "Заявка на закупку",
+      "master": 3,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 10,
+    "fields": {
+      "text": "Status changed",
+      "master": 4,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 11,
+    "fields": {
+      "text": "Status changed",
+      "master": 4,
+      "language_code": "it"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 12,
+    "fields": {
+      "text": "Статус изменен",
+      "master": 4,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 13,
+    "fields": {
+      "text": "A new applicant on the",
+      "master": 5,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 14,
+    "fields": {
+      "text": "Новый кандидат на вакансию",
+      "master": 5,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 15,
+    "fields": {
+      "text": "A new applicant on the",
+      "master": 5,
+      "language_code": "it"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 16,
+    "fields": {
+      "text": "vacancy",
+      "master": 6,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 17,
+    "fields": {
+      "text": "vacancy",
+      "master": 6,
+      "language_code": "it"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 18,
+    "fields": {
+      "text": "вакансия",
+      "master": 6,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 19,
+    "fields": {
+      "text": "responded to your offering",
+      "master": 7,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 20,
+    "fields": {
+      "text": "responded to your offering",
+      "master": 7,
+      "language_code": "it"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 21,
+    "fields": {
+      "text": "откликнулся на ваше объявление",
+      "master": 7,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 22,
+    "fields": {
+      "text": "responded to your request",
+      "master": 8,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 23,
+    "fields": {
+      "text": "responded to your request",
+      "master": 8,
+      "language_code": "it"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 24,
+    "fields": {
+      "text": "откликнулся на ваш запрос",
+      "master": 8,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 25,
+    "fields": {
+      "text": "Responses to your offerings",
+      "master": 9,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 26,
+    "fields": {
+      "text": "Responses to your offerings",
+      "master": 9,
+      "language_code": "it"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 27,
+    "fields": {
+      "text": "Отклики на Ваши объявления",
+      "master": 9,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 28,
+    "fields": {
+      "text": "Responses to your requests",
+      "master": 10,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 29,
+    "fields": {
+      "text": "Responses to your requests",
+      "master": 10,
+      "language_code": "it"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 30,
+    "fields": {
+      "text": "Отклики на Ваши запросы",
+      "master": 10,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 31,
+    "fields": {
+      "text": "A new response on your request",
+      "master": 11,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 32,
+    "fields": {
+      "text": "A new response on your request",
+      "master": 11,
+      "language_code": "it"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 33,
+    "fields": {
+      "text": "Новый отклик на ваш запрос",
+      "master": 11,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 34,
+    "fields": {
+      "text": "A new response on your offering",
+      "master": 12,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 35,
+    "fields": {
+      "text": "A new response on your offering",
+      "master": 12,
+      "language_code": "it"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 36,
+    "fields": {
+      "text": "Новый отклик на Ваше объявление",
+      "master": 12,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 37,
+    "fields": {
+      "text": "A new administrator created.",
+      "master": 13,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 38,
+    "fields": {
+      "text": "A new administrator created.",
+      "master": 13,
+      "language_code": "it"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 39,
+    "fields": {
+      "text": "Добавлен новый администратор",
+      "master": 13,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 40,
+    "fields": {
+      "text": "The administrator was deleted.",
+      "master": 14,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 41,
+    "fields": {
+      "text": "The administrator was deleted.",
+      "master": 14,
+      "language_code": "it"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 42,
+    "fields": {
+      "text": "Администратор удален",
+      "master": 14,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 43,
+    "fields": {
+      "text": "A membership request",
+      "master": 15,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 44,
+    "fields": {
+      "text": "A membership request",
+      "master": 15,
+      "language_code": "it"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 45,
+    "fields": {
+      "text": "Запрос на вступление",
+      "master": 15,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 46,
+    "fields": {
+      "text": "Congratulations. You are a community member.",
+      "master": 16,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 47,
+    "fields": {
+      "text": "Congratulations. You are a community member.",
+      "master": 16,
+      "language_code": "it"
+    }
+  },
+  {
+    "model": "general.translationtranslation",
+    "pk": 48,
+    "fields": {
+      "text": "Вы участник сообщества!",
+      "master": 16,
+      "language_code": "ru"
+    }
+  }
+]

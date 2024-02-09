@@ -1,0 +1,10 @@
+Новый заказ клиента от {{username}}
+
+№ {{request_id}}
+
+Сообщение пользователя:
+{{message}}
+
+Copyright © 2019 CatalogToday. All Rights Reserved. We appreciate you!
+
+help@catalogtoday.com

@@ -1,0 +1,9 @@
+Новый кандидат {{username}}.
+
+На вакансию {{job_title}}.
+{{message}}
+
+
+Copyright © 2019 CatalogToday. All Rights Reserved. We appreciate you!
+
+help@catalogtoday.com

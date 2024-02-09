@@ -1,0 +1,172 @@
+[
+  {
+    "model": "general.jobtype",
+    "pk": 1,
+    "fields": {
+      "position": 1
+    }
+  },
+  {
+    "model": "general.jobtype",
+    "pk": 2,
+    "fields": {
+      "position": 2
+    }
+  },
+  {
+    "model": "general.jobtype",
+    "pk": 3,
+    "fields": {
+      "position": 3
+    }
+  },
+  {
+    "model": "general.jobtype",
+    "pk": 4,
+    "fields": {
+      "position": 4
+    }
+  },
+  {
+    "model": "general.jobtype",
+    "pk": 6,
+    "fields": {
+      "position": 6
+    }
+  },
+  {
+    "model": "general.jobtypetranslation",
+    "pk": 1,
+    "fields": {
+      "name": "Full-time",
+      "master": 1,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobtypetranslation",
+    "pk": 2,
+    "fields": {
+      "name": "Full-time",
+      "master": 1,
+      "language_code": "it"
+    }
+  },
+  {
+    "model": "general.jobtypetranslation",
+    "pk": 3,
+    "fields": {
+      "name": "Полный рабочий день",
+      "master": 1,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobtypetranslation",
+    "pk": 4,
+    "fields": {
+      "name": "Не полная занятость",
+      "master": 2,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobtypetranslation",
+    "pk": 5,
+    "fields": {
+      "name": "Part-time",
+      "master": 2,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobtypetranslation",
+    "pk": 6,
+    "fields": {
+      "name": "Part-time",
+      "master": 2,
+      "language_code": "it"
+    }
+  },
+  {
+    "model": "general.jobtypetranslation",
+    "pk": 7,
+    "fields": {
+      "name": "Remote",
+      "master": 3,
+      "language_code": "it"
+    }
+  },
+  {
+    "model": "general.jobtypetranslation",
+    "pk": 8,
+    "fields": {
+      "name": "Remote",
+      "master": 3,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobtypetranslation",
+    "pk": 9,
+    "fields": {
+      "name": "Удаленная",
+      "master": 3,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobtypetranslation",
+    "pk": 10,
+    "fields": {
+      "name": "По контракту",
+      "master": 4,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobtypetranslation",
+    "pk": 11,
+    "fields": {
+      "name": "Contract",
+      "master": 4,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobtypetranslation",
+    "pk": 12,
+    "fields": {
+      "name": "Contract",
+      "master": 4,
+      "language_code": "it"
+    }
+  },
+  {
+    "model": "general.jobtypetranslation",
+    "pk": 16,
+    "fields": {
+      "name": "Временная",
+      "master": 6,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobtypetranslation",
+    "pk": 17,
+    "fields": {
+      "name": "Temporary",
+      "master": 6,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobtypetranslation",
+    "pk": 18,
+    "fields": {
+      "name": "Temporary",
+      "master": 6,
+      "language_code": "it"
+    }
+  }
+]

@@ -1,0 +1,10 @@
+Заявка поставщику {{username}}
+
+№ {{request_id}}
+
+Статус изменен на:
+{{status}}
+
+Copyright © 2019 CatalogToday. All Rights Reserved. We appreciate you!
+
+help@catalogtoday.com

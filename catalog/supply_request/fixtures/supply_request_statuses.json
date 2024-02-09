@@ -1,0 +1,150 @@
+[
+  {
+    "model": "supply_request.supplyrequeststatus",
+    "pk": 1,
+    "fields": {
+      "code": "new",
+      "position": 1,
+      "icon": "add_alert",
+      "color_class": "color-new"
+    }
+  },
+  {
+    "model": "supply_request.supplyrequeststatus",
+    "pk": 2,
+    "fields": {
+      "code": "processing",
+      "position": 2,
+      "icon": "loop",
+      "color_class": "color-interview"
+    }
+  },
+  {
+    "model": "supply_request.supplyrequeststatus",
+    "pk": 4,
+    "fields": {
+      "code": "completed",
+      "position": 4,
+      "icon": "done_all",
+      "color_class": "color-accepted"
+    }
+  },
+  {
+    "model": "supply_request.supplyrequeststatus",
+    "pk": 5,
+    "fields": {
+      "code": "canceled",
+      "position": 5,
+      "icon": "cancel",
+      "color_class": "color-rejected"
+    }
+  },
+  {
+    "model": "supply_request.supplyrequeststatustranslation",
+    "pk": 1,
+    "fields": {
+      "name": "New",
+      "master": 1,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "supply_request.supplyrequeststatustranslation",
+    "pk": 2,
+    "fields": {
+      "name": "New",
+      "master": 1,
+      "language_code": "it"
+    }
+  },
+  {
+    "model": "supply_request.supplyrequeststatustranslation",
+    "pk": 3,
+    "fields": {
+      "name": "Новый",
+      "master": 1,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "supply_request.supplyrequeststatustranslation",
+    "pk": 4,
+    "fields": {
+      "name": "Processing",
+      "master": 2,
+      "language_code": "it"
+    }
+  },
+  {
+    "model": "supply_request.supplyrequeststatustranslation",
+    "pk": 5,
+    "fields": {
+      "name": "Processing",
+      "master": 2,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "supply_request.supplyrequeststatustranslation",
+    "pk": 6,
+    "fields": {
+      "name": "Обработка",
+      "master": 2,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "supply_request.supplyrequeststatustranslation",
+    "pk": 10,
+    "fields": {
+      "name": "Completed",
+      "master": 4,
+      "language_code": "it"
+    }
+  },
+  {
+    "model": "supply_request.supplyrequeststatustranslation",
+    "pk": 11,
+    "fields": {
+      "name": "Completed",
+      "master": 4,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "supply_request.supplyrequeststatustranslation",
+    "pk": 12,
+    "fields": {
+      "name": "Выполнен",
+      "master": 4,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "supply_request.supplyrequeststatustranslation",
+    "pk": 13,
+    "fields": {
+      "name": "Отменен",
+      "master": 5,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "supply_request.supplyrequeststatustranslation",
+    "pk": 14,
+    "fields": {
+      "name": "Canceled",
+      "master": 5,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "supply_request.supplyrequeststatustranslation",
+    "pk": 15,
+    "fields": {
+      "name": "Canceled",
+      "master": 5,
+      "language_code": "it"
+    }
+  }
+]

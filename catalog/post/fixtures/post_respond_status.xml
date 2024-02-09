@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+    <object model="post.postrespondstatus" pk="1">
+        <field name="code" type="CharField">new</field>
+        <field name="position" type="IntegerField">1</field>
+        <field name="icon" type="CharField">
+            <None></None>
+        </field>
+        <field name="color_class" type="CharField">
+            <None></None>
+        </field>
+    </object>
+    <object model="post.postrespondstatus" pk="2">
+        <field name="code" type="CharField">nointeres</field>
+        <field name="position" type="IntegerField">2</field>
+        <field name="icon" type="CharField">
+            <None></None>
+        </field>
+        <field name="color_class" type="CharField">
+            <None></None>
+        </field>
+    </object>
+    <object model="post.postrespondstatus" pk="3">
+        <field name="code" type="CharField">interes</field>
+        <field name="position" type="IntegerField">3</field>
+        <field name="icon" type="CharField">
+            <None></None>
+        </field>
+        <field name="color_class" type="CharField">
+            <None></None>
+        </field>
+    </object>
+</django-objects>

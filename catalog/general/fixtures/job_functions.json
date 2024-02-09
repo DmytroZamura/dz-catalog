@@ -1,0 +1,727 @@
+[
+  {
+    "model": "general.jobfunction",
+    "pk": 1,
+    "fields": {
+      "position": 1
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 2,
+    "fields": {
+      "position": 2
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 3,
+    "fields": {
+      "position": 3
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 4,
+    "fields": {
+      "position": 4
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 5,
+    "fields": {
+      "position": 5
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 6,
+    "fields": {
+      "position": 6
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 7,
+    "fields": {
+      "position": 7
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 8,
+    "fields": {
+      "position": 8
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 9,
+    "fields": {
+      "position": 9
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 10,
+    "fields": {
+      "position": 10
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 11,
+    "fields": {
+      "position": 11
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 12,
+    "fields": {
+      "position": 12
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 13,
+    "fields": {
+      "position": 13
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 14,
+    "fields": {
+      "position": 14
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 15,
+    "fields": {
+      "position": 15
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 16,
+    "fields": {
+      "position": 16
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 17,
+    "fields": {
+      "position": 17
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 18,
+    "fields": {
+      "position": 18
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 19,
+    "fields": {
+      "position": 19
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 20,
+    "fields": {
+      "position": 20
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 21,
+    "fields": {
+      "position": 21
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 22,
+    "fields": {
+      "position": 22
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 23,
+    "fields": {
+      "position": 23
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 24,
+    "fields": {
+      "position": 24
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 25,
+    "fields": {
+      "position": 25
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 26,
+    "fields": {
+      "position": 26
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 27,
+    "fields": {
+      "position": 27
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 28,
+    "fields": {
+      "position": 28
+    }
+  },
+  {
+    "model": "general.jobfunction",
+    "pk": 29,
+    "fields": {
+      "position": 29
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 1,
+    "fields": {
+      "name": "Accounting",
+      "master": 1,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 2,
+    "fields": {
+      "name": "Бухгалтерия, аудит",
+      "master": 1,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 3,
+    "fields": {
+      "name": "Administrative",
+      "master": 2,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 4,
+    "fields": {
+      "name": "Административный персонал",
+      "master": 2,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 5,
+    "fields": {
+      "name": "Arts and Design",
+      "master": 3,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 6,
+    "fields": {
+      "name": "Дизайн, творчество, шоу-бизнес",
+      "master": 3,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 7,
+    "fields": {
+      "name": "Business Development",
+      "master": 4,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 8,
+    "fields": {
+      "name": "Менеджер по развитию бизнеса",
+      "master": 4,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 9,
+    "fields": {
+      "name": "Community & Social Services",
+      "master": 5,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 10,
+    "fields": {
+      "name": "Государственная служба, социальные услуги",
+      "master": 5,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 11,
+    "fields": {
+      "name": "Consulting",
+      "master": 6,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 12,
+    "fields": {
+      "name": "Консалтинг",
+      "master": 6,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 13,
+    "fields": {
+      "name": "Education",
+      "master": 7,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 14,
+    "fields": {
+      "name": "Образование",
+      "master": 7,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 15,
+    "fields": {
+      "name": "Engineering",
+      "master": 8,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 16,
+    "fields": {
+      "name": "Инжиниринг",
+      "master": 8,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 17,
+    "fields": {
+      "name": "Entrepreneurship",
+      "master": 9,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 18,
+    "fields": {
+      "name": "Предпринимательство",
+      "master": 9,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 19,
+    "fields": {
+      "name": "Finance",
+      "master": 10,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 20,
+    "fields": {
+      "name": "Финансы",
+      "master": 10,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 21,
+    "fields": {
+      "name": "Healthcare Services",
+      "master": 11,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 22,
+    "fields": {
+      "name": "Медицина, фармацевтика",
+      "master": 11,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 23,
+    "fields": {
+      "name": "Human Resources",
+      "master": 12,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 24,
+    "fields": {
+      "name": "Управление персоналом",
+      "master": 12,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 25,
+    "fields": {
+      "name": "Information Technology",
+      "master": 13,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 26,
+    "fields": {
+      "name": "Информационные технологии",
+      "master": 13,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 27,
+    "fields": {
+      "name": "Legal",
+      "master": 14,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 28,
+    "fields": {
+      "name": "Юристы",
+      "master": 14,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 29,
+    "fields": {
+      "name": "Marketing",
+      "master": 15,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 30,
+    "fields": {
+      "name": "Маркетинг",
+      "master": 15,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 31,
+    "fields": {
+      "name": "Media & Communications",
+      "master": 16,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 32,
+    "fields": {
+      "name": "Mедиа, реклама, PR",
+      "master": 16,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 33,
+    "fields": {
+      "name": "Military & Protective Services",
+      "master": 17,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 34,
+    "fields": {
+      "name": "Охрана, безопасность, военная служба",
+      "master": 17,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 35,
+    "fields": {
+      "name": "Operations",
+      "master": 18,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 36,
+    "fields": {
+      "name": "Рабочие специальности, производство",
+      "master": 18,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 37,
+    "fields": {
+      "name": "Product Management",
+      "master": 19,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 38,
+    "fields": {
+      "name": "Продукт-менеджер",
+      "master": 19,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 39,
+    "fields": {
+      "name": "Program & Project Management",
+      "master": 20,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 40,
+    "fields": {
+      "name": "Управление проектами и программами",
+      "master": 20,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 41,
+    "fields": {
+      "name": "Purchasing",
+      "master": 21,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 42,
+    "fields": {
+      "name": "Закупки",
+      "master": 21,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 43,
+    "fields": {
+      "name": "Quality Assurance",
+      "master": 22,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 44,
+    "fields": {
+      "name": "Обеспечение качества",
+      "master": 22,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 45,
+    "fields": {
+      "name": "Development and Real Estate",
+      "master": 23,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 46,
+    "fields": {
+      "name": "Строительство, недвижимость",
+      "master": 23,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 47,
+    "fields": {
+      "name": "Science and Research",
+      "master": 24,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 48,
+    "fields": {
+      "name": "Наука и исследования",
+      "master": 24,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 49,
+    "fields": {
+      "name": "Sales",
+      "master": 25,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 50,
+    "fields": {
+      "name": "Продажи",
+      "master": 25,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 51,
+    "fields": {
+      "name": "Support",
+      "master": 26,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 52,
+    "fields": {
+      "name": "Специалист поддержки",
+      "master": 26,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 53,
+    "fields": {
+      "name": "Transportations and logistics",
+      "master": 27,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 54,
+    "fields": {
+      "name": "Транспорт, логистика",
+      "master": 27,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 55,
+    "fields": {
+      "name": "Household Staff",
+      "master": 28,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 56,
+    "fields": {
+      "name": "Домашний персонал",
+      "master": 28,
+      "language_code": "ru"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 57,
+    "fields": {
+      "name": "Installation and Service",
+      "master": 29,
+      "language_code": "en"
+    }
+  },
+  {
+    "model": "general.jobfunctiontranslation",
+    "pk": 58,
+    "fields": {
+      "name": "Инсталляция и сервис",
+      "master": 29,
+      "language_code": "ru"
+    }
+  }
+]

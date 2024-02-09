@@ -1,0 +1,7 @@
+{{target_name}}
+
+{{username}}. Поздравляем, Вы участник сообщества
+
+Copyright © 2019 CatalogToday. All Rights Reserved. We appreciate you!
+
+help@catalogtoday.com

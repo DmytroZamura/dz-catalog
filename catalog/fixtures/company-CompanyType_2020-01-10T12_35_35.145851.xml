@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+  <object model="company.companytype" pk="1">
+    <field name="position" type="IntegerField">0</field>
+    <field name="slug" type="CharField">manufacturer</field>
+  </object>
+  <object model="company.companytype" pk="2">
+    <field name="position" type="IntegerField">1</field>
+    <field name="slug" type="CharField">service-company</field>
+  </object>
+  <object model="company.companytype" pk="3">
+    <field name="position" type="IntegerField">2</field>
+    <field name="slug" type="CharField">agency</field>
+  </object>
+  <object model="company.companytype" pk="4">
+    <field name="position" type="IntegerField">4</field>
+    <field name="slug" type="CharField">educational-institution</field>
+  </object>
+</django-objects>

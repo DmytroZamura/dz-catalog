@@ -1,0 +1,25 @@
+[
+  {
+  "model": "category.category",
+  "pk": 68,
+  "fields": {
+    "parent": null,
+    "default_name": "Energy",
+    "slug": "energy",
+    "external_code": "10",
+    "image": "",
+    "background_image": "",
+    "content_exists": false,
+    "posts_exist": false,
+    "users_exist": false,
+    "companies_exist": false,
+    "products_exist": false,
+    "communities_exist": false,
+    "first_level": true,
+    "approved": true,
+    "child_qty": 22,
+    "user": null,
+    "updated": true
+  }
+}
+]

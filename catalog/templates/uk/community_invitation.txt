@@ -1,0 +1,7 @@
+{{target_name}}
+
+{{username}} відправив запит на вступ.
+
+Copyright © 2019 CatalogToday. All Rights Reserved. We appreciate you!
+
+help@catalogtoday.com
